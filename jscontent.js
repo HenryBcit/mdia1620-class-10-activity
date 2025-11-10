@@ -49,7 +49,7 @@ function StartMatch() {
   // ReviewMatchLog(homeGoals, awayGoals);
 
   // determine result for the home team and show final
-  // ShowFinalResult(homeGoals, awayGoals, winner);
+  // ShowFinalResults(homeGoals, awayGoals);
 
   //Write your code above here
 }
